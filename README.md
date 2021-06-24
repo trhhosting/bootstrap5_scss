@@ -33,7 +33,7 @@ environment:
   sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
-  bootstrap_scss: ^4.1.3
+  bootstrap5_scss: ^5.0.2
 
 dev_dependencies:
   build_runner: ^0.10.0
