@@ -1,6 +1,6 @@
 # Bootstrap Scss Example
 
-This is a barebones example of how to use `bootstrap_scss` library.
+This is a barebones example of how to use `bootstrap5_scss` library.
 
 ## Running example
 

@@ -1,12 +1,12 @@
-name: bootstrap_scss_example # change this line to have your library name
+name: bootstrap5_scss_example # change this line to have your library name
 description: An absolute bare-bones web app.
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
-  bootstrap_scss:
-    git: https://github.com/Dart-Land/bootstrap_scss.git
+  bootstrap5_scss:
+    git: https://github.com/Dart-Land/bootstrap5_scss.git
 
 dev_dependencies:
   build_runner: ^0.10.0

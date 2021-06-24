@@ -3,7 +3,7 @@
 This project contains all the bootstrap scss source files. This project
 will be useful to create new themes using scss.
 
-`bootstrap_scss` is a scss-powered version of
+`bootstrap5_scss` is a scss-powered version of
 \[Bootstrap\](<https://github.com/twbs/bootstrap>), ready to drop right
 into your scss powered applications.
 
@@ -21,12 +21,12 @@ into your scss powered applications.
       └─ lib
          └─ ... lib files and folders ...
 
-2 - In the `pubspec.yaml` file add the `bootstrap_scss` and
+2 - In the `pubspec.yaml` file add the `bootstrap5_scss` and
 `scss_builder` dependencies as
 bellow:
 
 ``` yaml
-name: bootstrap_scss_example # change this line to have your library name
+name: bootstrap5_scss_example # change this line to have your library name
 description: An absolute bare-bones web app.
 
 environment:
@@ -75,7 +75,7 @@ so you will end up with an `index.html` file like next one:
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="scaffolded-by" content="https://github.com/google/stagehand">
-      <title>bootstrap_scss_sample</title>
+      <title>bootstrap5_scss_sample</title>
       <link rel="stylesheet" href="theme.css">
       <link rel="icon" href="favicon.ico">
       <script defer src="main.dart.js"></script>
@@ -99,7 +99,7 @@ so you will end up with an `index.html` file like next one:
 
 # Credits
 
-bootstrap-scss is a friendly fork of [bootstrap_scss](https://github.com/dart-league/bootstrap_scss.git) which has a number of major contributors:
+bootstrap-scss is a friendly fork of [bootstrap5_scss](https://github.com/dart-league/bootstrap5_scss.git) which has a number of major contributors:
   - [Thomas McDonald](https://twitter.com/thomasmcdonald_)
 
   - [Tristan Harward](http://www.trisweb.com)
@@ -119,7 +119,7 @@ issue at <https://github.com/twbs/bootstrap/issues/new>.
 
 Have a bug or a feature request to bootstrap\_scss dart port? Please
 open a new issue at
-<https://github.com/Dart-Land/bootstrap_scss/issues/new>.
+<https://github.com/Dart-Land/bootstrap5_scss/issues/new>.
 
 # Copyright and license
 
