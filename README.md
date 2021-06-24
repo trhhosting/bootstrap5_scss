@@ -1,4 +1,4 @@
-# Bootstrap 4.3.1 for AngularDart
+# Bootstrap 5.0.2 for Dart JS/AngularDart
 
 This project contains all the bootstrap scss source files. This project
 will be useful to create new themes using scss.
