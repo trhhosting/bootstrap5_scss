@@ -1,0 +1,12 @@
+name: bootstrap_scss
+version: 5.0.2
+description: Scss source files to create bootstrap themes
+author: Legion Market <bootstrap@legionmarket.com>
+homepage: https://github.com/Dart-Land/bootstrap5_scss
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dev_dependencies:
+  sass_builder: ^2.1.1
+  build_runner: any
+  build_test: any
+  build_web_compilers: any
