@@ -7,6 +7,5 @@ environment:
   sdk: '>=2.0.0 <3.0.0'
 dev_dependencies:
   sass_builder: ^2.1.1
-  build_runner: any
-  build_test: any
-  build_web_compilers: any
+  build_runner: ^0.10.0
+  build_web_compilers: ^0.4.0
